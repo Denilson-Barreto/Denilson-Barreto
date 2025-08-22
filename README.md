@@ -40,7 +40,7 @@ Busco sempre desenvolver soluções inovadoras que contribuam para a **transform
 
 ## 📌 Projetos em Destaque
 
-🔹 [**Projeto 1**]([https://github.com/Denilson-Barreto/projeto1](https://github.com/Denilson-Barreto/Sistema-de-Classifica-o-Fuzzy-Complexidade-das-Atividades-Avaliativas)) – Sistema dessenvolvido para meu TCC. Foi utilizado a logica fuzzy com python para se analizar os niveis de complexidade das atividades avaliativas da disciplina **"Algoritimos de programação 1"** na Ufersa Angicos.    
+🔹 [**Projeto 1**](https://github.com/Denilson-Barreto/Sistema-de-Classifica-o-Fuzzy-Complexidade-das-Atividades-Avaliativas) – Sistema dessenvolvido para meu TCC. Foi utilizado a logica fuzzy com python para se analizar os niveis de complexidade das atividades avaliativas da disciplina **"Algoritimos de programação 1"** na Ufersa Angicos.    
 🔹 [**Projeto 2**](https://github.com/Denilson-Barreto/Adote) – Projeto iniciado em um evento de python. Não foi finalizado ainda, mas em um futuro proximo estarie retomando com o projeto. 
 
 ---
